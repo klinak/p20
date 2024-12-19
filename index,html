@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Адаптивная вёрстка на Бутстрапе</title>
+  <title>неудачная попытка в сайты</title>
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -18,7 +18,7 @@
   <div class="container">
     <div class="row">
       <div class="col-12">
-        <h1>Адаптивная вёрстка</h1>
+        <h1>Адаптивная вёрстка сайтов</h1>
       </div>
     </div>
   </div>
