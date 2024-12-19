@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head> 
+  <title>Адаптивная вёрстка на Бутстрапе</title>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
+    integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+  <style type="text/css">
+  </style>
+</head>
+<body>
+<div class="container">
+  <div class="row">
+    <div class="col-12">
+      <h2>Адаптивная вёрстка</h2>
+    </div>
+  </div>
+</div>
+<div class="container">
+   <style> img{  max-width: 100%; } </style>
+  <div class="row">
+    <div class="col-2">
+      <img src="https://i.pinimg.com/236x/e2/e8/7f/e2e87f60fc822152e3627428f6d917fe.jpg">
+    </div>
+    <div class="col-8">
+      <img src="https://i.pinimg.com/236x/73/d1/09/73d10901ec00f102b2274dc7b72857cc.jpg">
+    </div>
+    <div class="col-2">
+      <img src="https://i.pinimg.com/236x/00/dc/31/00dc31f974be4e48a1f9c2403df182a0.jpg">
+    </div>
+  </div>
+</div>
+<div class="row">
+  <div class="col-12 col-sm-12 col-md-4 col-lg-2 col-xl-2">
+    <img src="https://i.pinimg.com/236x/04/ae/19/04ae1988a642848c90f4ebb2e640da10.jpg">
+  </div>
+  <div class="col-12 col-sm-12 col-md-4 col-lg-8 col-xl-8">
+    <img src="https://i.pinimg.com/236x/73/fa/76/73fa76b27c9934abcefa64fec4d31200.jpg">
+  </div>
+  <div class="col-12 col-sm-12 col-md-4 col-lg-2 col-xl-2">
+    <img src="https://i.pinimg.com/236x/dc/96/a0/dc96a08986af32ae7ce9a72da1d033cf.jpg">
+  </div>
+</div>
+
+</body>
+</html>
+
